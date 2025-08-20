@@ -1,3 +1,6 @@
+개발중 수정 예정
+
+
 # edge-service
 
 Spring Cloud Gateway(WebFlux) 기반의 **엣지 서비스**. Firebase 인증으로 관리자 세션을 만들고, 프론트(관리 콘솔)와 백엔드 API들을 프록시/라우팅합니다.
